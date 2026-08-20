@@ -1,0 +1,36 @@
+# 公開リポジトリ(GitHub Pagesで配信)なので、配信してよいファイルだけを置く。
+# うっかりコミットした一時ファイルはドメイン配下からそのまま読めてしまうため、
+# OS/エディタの生成物と資格情報・ログ類は最初から追跡させない。2026-08-21新設。
+
+# 資格情報・環境変数
+.env
+.env.*
+*.pem
+*.key
+*.p8
+*.p12
+secrets/
+credentials*.json
+service-account*.json
+
+# ログ・一時ファイル
+*.log
+*.tmp
+*.bak
+*.swp
+.cache/
+tmp/
+
+# OS・エディタ
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# 依存・ビルド生成物
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
