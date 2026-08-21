@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-08-20T20:47:48+00:00",
+  "generated_at": "2026-08-21T01:36:59+00:00",
   "channel": {
     "title": "StatSlam",
     "url": "https://www.youtube.com/channel/UCykGZb7YAiOY0vbCv45OD5A",
-    "video_count": 73,
+    "video_count": 74,
     "view_count": 20793
   },
   "videos": [
     {
+      "youtube_id": "kKcQvearSwA",
+      "title": "DÍAZ Leads the Pichichi Race ⚽🔥 La Liga 2026-27 Update",
+      "published_at": "2026-08-21T01:36:40Z",
+      "url": "https://www.youtube.com/watch?v=kKcQvearSwA",
+      "thumbnail": "https://i.ytimg.com/vi/kKcQvearSwA/mqdefault.jpg",
+      "tiktok_id": null
+    },
+    {
       "youtube_id": "wIGrEzg7j5Q",
       "title": "Toronto Blue Jays Beat Tampa Bay Rays 5-1! 🔥 MLB Final",
-      "published_at": "2026-08-20T20:47:32Z",
+      "published_at": "2026-08-20T20:47:48Z",
       "url": "https://www.youtube.com/watch?v=wIGrEzg7j5Q",
       "thumbnail": "https://i.ytimg.com/vi/wIGrEzg7j5Q/mqdefault.jpg",
       "tiktok_id": null
