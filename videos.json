@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-08-23T02:47:42+00:00",
+  "generated_at": "2026-08-23T16:49:37+00:00",
   "channel": {
     "title": "StatSlam",
     "url": "https://www.youtube.com/channel/UCykGZb7YAiOY0vbCv45OD5A",
-    "video_count": 76,
-    "view_count": 21267
+    "video_count": 78,
+    "view_count": 21535
   },
   "videos": [
     {
+      "youtube_id": "pNKZgdnqx0o",
+      "title": "Norris Wins the Dutch Grand Prix! 🏁 F1 2026 Race Result",
+      "published_at": "2026-08-23T16:49:22Z",
+      "url": "https://www.youtube.com/watch?v=pNKZgdnqx0o",
+      "thumbnail": "https://i.ytimg.com/vi/pNKZgdnqx0o/mqdefault.jpg",
+      "tiktok_id": null
+    },
+    {
       "youtube_id": "2sBdMKazTHI",
       "title": "Boston Red Sox Beat San Francisco Giants 3-2! 🔥 MLB Final",
-      "published_at": "2026-08-23T02:47:27Z",
+      "published_at": "2026-08-23T02:47:51Z",
       "url": "https://www.youtube.com/watch?v=2sBdMKazTHI",
       "thumbnail": "https://i.ytimg.com/vi/2sBdMKazTHI/mqdefault.jpg",
       "tiktok_id": null
