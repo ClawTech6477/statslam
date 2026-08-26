@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-08-25T02:32:26+00:00",
+  "generated_at": "2026-08-26T01:31:44+00:00",
   "channel": {
     "title": "StatSlam",
     "url": "https://www.youtube.com/channel/UCykGZb7YAiOY0vbCv45OD5A",
-    "video_count": 81,
-    "view_count": 21710
+    "video_count": 82,
+    "view_count": 22229
   },
   "videos": [
     {
+      "youtube_id": "kAjQGaVmWoM",
+      "title": "Detroit Tigers Beat Tampa Bay Rays 4-1! 🔥 MLB Final",
+      "published_at": "2026-08-26T01:31:32Z",
+      "url": "https://www.youtube.com/watch?v=kAjQGaVmWoM",
+      "thumbnail": "https://i.ytimg.com/vi/kAjQGaVmWoM/mqdefault.jpg",
+      "tiktok_id": null
+    },
+    {
       "youtube_id": "eSx5nCT1NLs",
       "title": "Boston Red Sox Beat Miami Marlins 4-2! 🔥 MLB Final",
-      "published_at": "2026-08-25T02:32:14Z",
+      "published_at": "2026-08-25T02:32:31Z",
       "url": "https://www.youtube.com/watch?v=eSx5nCT1NLs",
       "thumbnail": "https://i.ytimg.com/vi/eSx5nCT1NLs/mqdefault.jpg",
       "tiktok_id": null
