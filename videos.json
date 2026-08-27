@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-08-27T01:48:30+00:00",
+  "generated_at": "2026-08-27T03:46:55+00:00",
   "channel": {
     "title": "StatSlam",
     "url": "https://www.youtube.com/channel/UCykGZb7YAiOY0vbCv45OD5A",
-    "video_count": 85,
+    "video_count": 86,
     "view_count": 22377
   },
   "videos": [
     {
+      "youtube_id": "lA4wrgCNki8",
+      "title": "Baltimore Orioles Beat St. Louis Cardinals 8-7! 🔥 MLB Final",
+      "published_at": "2026-08-27T03:46:55Z",
+      "url": "https://www.youtube.com/watch?v=lA4wrgCNki8",
+      "thumbnail": "https://i.ytimg.com/vi/lA4wrgCNki8/mqdefault.jpg",
+      "tiktok_id": null
+    },
+    {
       "youtube_id": "Oq9PmbiL9go",
       "title": "Toronto Blue Jays Beat Kansas City Royals 3-0! 🔥 MLB Final",
-      "published_at": "2026-08-27T01:48:18Z",
+      "published_at": "2026-08-27T01:48:48Z",
       "url": "https://www.youtube.com/watch?v=Oq9PmbiL9go",
       "thumbnail": "https://i.ytimg.com/vi/Oq9PmbiL9go/mqdefault.jpg",
       "tiktok_id": null
