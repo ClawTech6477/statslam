@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-08-26T23:37:05+00:00",
+  "generated_at": "2026-08-27T01:48:30+00:00",
   "channel": {
     "title": "StatSlam",
     "url": "https://www.youtube.com/channel/UCykGZb7YAiOY0vbCv45OD5A",
-    "video_count": 84,
+    "video_count": 85,
     "view_count": 22377
   },
   "videos": [
     {
+      "youtube_id": "Oq9PmbiL9go",
+      "title": "Toronto Blue Jays Beat Kansas City Royals 3-0! 🔥 MLB Final",
+      "published_at": "2026-08-27T01:48:18Z",
+      "url": "https://www.youtube.com/watch?v=Oq9PmbiL9go",
+      "thumbnail": "https://i.ytimg.com/vi/Oq9PmbiL9go/mqdefault.jpg",
+      "tiktok_id": null
+    },
+    {
       "youtube_id": "FD0nLQb6o3c",
       "title": "MBAPPÉ Leads the Pichichi Race ⚽🔥 La Liga 2026-27 Update",
-      "published_at": "2026-08-26T23:37:04Z",
+      "published_at": "2026-08-26T23:37:21Z",
       "url": "https://www.youtube.com/watch?v=FD0nLQb6o3c",
       "thumbnail": "https://i.ytimg.com/vi/FD0nLQb6o3c/mqdefault.jpg",
       "tiktok_id": null
