@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-08-29T23:34:24+00:00",
+  "generated_at": "2026-08-29T23:47:32+00:00",
   "channel": {
     "title": "StatSlam",
     "url": "https://www.youtube.com/channel/UCykGZb7YAiOY0vbCv45OD5A",
-    "video_count": 89,
+    "video_count": 90,
     "view_count": 23012
   },
   "videos": [
     {
+      "youtube_id": "NqRaNNTQLZI",
+      "title": "Tampa Bay Rays Beat San Diego Padres 7-6! 🔥 MLB Final",
+      "published_at": "2026-08-29T23:47:17Z",
+      "url": "https://www.youtube.com/watch?v=NqRaNNTQLZI",
+      "thumbnail": "https://i.ytimg.com/vi/NqRaNNTQLZI/mqdefault.jpg",
+      "tiktok_id": null
+    },
+    {
       "youtube_id": "rvo-1SsCv_w",
       "title": "FERNÁNDEZ Leads the Pichichi Race ⚽🔥 La Liga 2026-27 Update",
-      "published_at": "2026-08-29T23:34:10Z",
+      "published_at": "2026-08-29T23:34:31Z",
       "url": "https://www.youtube.com/watch?v=rvo-1SsCv_w",
       "thumbnail": "https://i.ytimg.com/vi/rvo-1SsCv_w/mqdefault.jpg",
       "tiktok_id": null
