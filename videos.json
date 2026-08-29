@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-08-27T23:32:34+00:00",
+  "generated_at": "2026-08-29T02:51:01+00:00",
   "channel": {
     "title": "StatSlam",
     "url": "https://www.youtube.com/channel/UCykGZb7YAiOY0vbCv45OD5A",
-    "video_count": 87,
-    "view_count": 22568
+    "video_count": 89,
+    "view_count": 22936
   },
   "videos": [
     {
+      "youtube_id": "NKLKrFxGnc0",
+      "title": "New York Yankees Beat Boston Red Sox 1-0! 🔥 MLB Final",
+      "published_at": "2026-08-29T02:50:46Z",
+      "url": "https://www.youtube.com/watch?v=NKLKrFxGnc0",
+      "thumbnail": "https://i.ytimg.com/vi/NKLKrFxGnc0/mqdefault.jpg",
+      "tiktok_id": null
+    },
+    {
       "youtube_id": "t2jFkGCfJXA",
       "title": "RAPHINHA Leads the Pichichi Race ⚽🔥 La Liga 2026-27 Update",
-      "published_at": "2026-08-27T23:32:21Z",
+      "published_at": "2026-08-27T23:32:50Z",
       "url": "https://www.youtube.com/watch?v=t2jFkGCfJXA",
       "thumbnail": "https://i.ytimg.com/vi/t2jFkGCfJXA/mqdefault.jpg",
       "tiktok_id": null
