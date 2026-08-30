@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-08-30T05:47:43+00:00",
+  "generated_at": "2026-08-30T17:34:20+00:00",
   "channel": {
     "title": "StatSlam",
     "url": "https://www.youtube.com/channel/UCykGZb7YAiOY0vbCv45OD5A",
-    "video_count": 91,
+    "video_count": 92,
     "view_count": 23242
   },
   "videos": [
     {
+      "youtube_id": "pOHBMzfkVVE",
+      "title": "MBAPPÉ Leads the Pichichi Race ⚽🔥 La Liga 2026-27 Update",
+      "published_at": "2026-08-30T17:34:05Z",
+      "url": "https://www.youtube.com/watch?v=pOHBMzfkVVE",
+      "thumbnail": "https://i.ytimg.com/vi/pOHBMzfkVVE/mqdefault.jpg",
+      "tiktok_id": null
+    },
+    {
       "youtube_id": "2_r8v2fjKv0",
       "title": "Baltimore Orioles Beat Athletics 5-3! 🔥 MLB Final",
-      "published_at": "2026-08-30T05:47:27Z",
+      "published_at": "2026-08-30T05:47:49Z",
       "url": "https://www.youtube.com/watch?v=2_r8v2fjKv0",
       "thumbnail": "https://i.ytimg.com/vi/2_r8v2fjKv0/mqdefault.jpg",
       "tiktok_id": null
