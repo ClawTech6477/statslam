@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-09-02T23:46:29+00:00",
+  "generated_at": "2026-09-04T02:46:50+00:00",
   "channel": {
     "title": "StatSlam",
     "url": "https://www.youtube.com/channel/UCykGZb7YAiOY0vbCv45OD5A",
-    "video_count": 94,
-    "view_count": 24203
+    "video_count": 95,
+    "view_count": 24208
   },
   "videos": [
     {
+      "youtube_id": "hbGXvpieB_w",
+      "title": "Texas Rangers Beat Tampa Bay Rays 6-0! 🔥 MLB Final",
+      "published_at": "2026-09-04T02:46:38Z",
+      "url": "https://www.youtube.com/watch?v=hbGXvpieB_w",
+      "thumbnail": "https://i.ytimg.com/vi/hbGXvpieB_w/mqdefault.jpg",
+      "tiktok_id": null
+    },
+    {
       "youtube_id": "QN2rzZtJmos",
       "title": "Seattle Mariners Beat Boston Red Sox 8-3! 🔥 MLB Final",
-      "published_at": "2026-09-02T23:46:17Z",
+      "published_at": "2026-09-02T23:46:41Z",
       "url": "https://www.youtube.com/watch?v=QN2rzZtJmos",
       "thumbnail": "https://i.ytimg.com/vi/QN2rzZtJmos/mqdefault.jpg",
       "tiktok_id": null
