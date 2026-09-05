@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-09-05T17:50:43+00:00",
+  "generated_at": "2026-09-05T17:55:41+00:00",
   "channel": {
     "title": "StatSlam",
     "url": "https://www.youtube.com/channel/UCykGZb7YAiOY0vbCv45OD5A",
-    "video_count": 98,
+    "video_count": 99,
     "view_count": 24232
   },
   "videos": [
     {
+      "youtube_id": "auhDuDe7Bc0",
+      "title": "CAMELLO Leads the Pichichi Race ⚽🔥 La Liga 2026-27 Update",
+      "published_at": "2026-09-05T17:55:23Z",
+      "url": "https://www.youtube.com/watch?v=auhDuDe7Bc0",
+      "thumbnail": "https://i.ytimg.com/vi/auhDuDe7Bc0/mqdefault.jpg",
+      "tiktok_id": null
+    },
+    {
       "youtube_id": "HbqKG0sBcjY",
       "title": "HAALAND Leads the Golden Boot Race ⚽🔥 Premier League 2026-27 Update",
-      "published_at": "2026-09-05T17:50:26Z",
+      "published_at": "2026-09-05T17:51:22Z",
       "url": "https://www.youtube.com/watch?v=HbqKG0sBcjY",
       "thumbnail": "https://i.ytimg.com/vi/HbqKG0sBcjY/mqdefault.jpg",
       "tiktok_id": null
