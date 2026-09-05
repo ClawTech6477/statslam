@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-09-04T02:46:50+00:00",
+  "generated_at": "2026-09-05T03:46:42+00:00",
   "channel": {
     "title": "StatSlam",
     "url": "https://www.youtube.com/channel/UCykGZb7YAiOY0vbCv45OD5A",
-    "video_count": 95,
+    "video_count": 96,
     "view_count": 24208
   },
   "videos": [
     {
+      "youtube_id": "FMWW5-h_N4E",
+      "title": "Toronto Blue Jays Beat Kansas City Royals 9-2! 🔥 MLB Final",
+      "published_at": "2026-09-05T03:46:30Z",
+      "url": "https://www.youtube.com/watch?v=FMWW5-h_N4E",
+      "thumbnail": "https://i.ytimg.com/vi/FMWW5-h_N4E/mqdefault.jpg",
+      "tiktok_id": null
+    },
+    {
       "youtube_id": "hbGXvpieB_w",
       "title": "Texas Rangers Beat Tampa Bay Rays 6-0! 🔥 MLB Final",
-      "published_at": "2026-09-04T02:46:38Z",
+      "published_at": "2026-09-04T02:47:01Z",
       "url": "https://www.youtube.com/watch?v=hbGXvpieB_w",
       "thumbnail": "https://i.ytimg.com/vi/hbGXvpieB_w/mqdefault.jpg",
       "tiktok_id": null
