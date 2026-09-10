@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-09-09T02:16:49+00:00",
+  "generated_at": "2026-09-10T02:16:37+00:00",
   "channel": {
     "title": "StatSlam",
     "url": "https://www.youtube.com/channel/UCykGZb7YAiOY0vbCv45OD5A",
-    "video_count": 103,
-    "view_count": 24264
+    "video_count": 104,
+    "view_count": 25761
   },
   "videos": [
     {
+      "youtube_id": "60D6OKSAlaw",
+      "title": "Tampa Bay Rays Beat Atlanta Braves 7-2! 🔥 MLB Final",
+      "published_at": "2026-09-10T02:16:26Z",
+      "url": "https://www.youtube.com/watch?v=60D6OKSAlaw",
+      "thumbnail": "https://i.ytimg.com/vi/60D6OKSAlaw/mqdefault.jpg",
+      "tiktok_id": null
+    },
+    {
       "youtube_id": "FuLMshDlavU",
       "title": "Tampa Bay Rays Beat Atlanta Braves 7-1! 🔥 MLB Final",
-      "published_at": "2026-09-09T02:16:36Z",
+      "published_at": "2026-09-09T02:16:57Z",
       "url": "https://www.youtube.com/watch?v=FuLMshDlavU",
       "thumbnail": "https://i.ytimg.com/vi/FuLMshDlavU/mqdefault.jpg",
       "tiktok_id": null
