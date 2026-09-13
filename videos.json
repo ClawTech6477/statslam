@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-09-12T21:21:53+00:00",
+  "generated_at": "2026-09-13T02:18:14+00:00",
   "channel": {
     "title": "StatSlam",
     "url": "https://www.youtube.com/channel/UCykGZb7YAiOY0vbCv45OD5A",
-    "video_count": 106,
+    "video_count": 108,
     "view_count": 26375
   },
   "videos": [
     {
+      "youtube_id": "BlIBtUvYeSs",
+      "title": "Tampa Bay Rays Beat Houston Astros 3-2! 🔥 MLB Final",
+      "published_at": "2026-09-13T02:17:57Z",
+      "url": "https://www.youtube.com/watch?v=BlIBtUvYeSs",
+      "thumbnail": "https://i.ytimg.com/vi/BlIBtUvYeSs/mqdefault.jpg",
+      "tiktok_id": null
+    },
+    {
       "youtube_id": "agaSsoBj4Lg",
       "title": "New York Mets Beat New York Yankees 12-2! 🔥 MLB Final",
-      "published_at": "2026-09-12T21:21:33Z",
+      "published_at": "2026-09-12T21:21:52Z",
       "url": "https://www.youtube.com/watch?v=agaSsoBj4Lg",
       "thumbnail": "https://i.ytimg.com/vi/agaSsoBj4Lg/mqdefault.jpg",
       "tiktok_id": null
