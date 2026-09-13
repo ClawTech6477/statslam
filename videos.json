@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-09-13T02:18:14+00:00",
+  "generated_at": "2026-09-13T20:53:19+00:00",
   "channel": {
     "title": "StatSlam",
     "url": "https://www.youtube.com/channel/UCykGZb7YAiOY0vbCv45OD5A",
-    "video_count": 108,
-    "view_count": 26375
+    "video_count": 109,
+    "view_count": 26383
   },
   "videos": [
     {
+      "youtube_id": "HXtGiNG1ClY",
+      "title": "Antonelli Wins the Spanish Grand Prix! 🏁 F1 2026 Race Result",
+      "published_at": "2026-09-13T20:53:01Z",
+      "url": "https://www.youtube.com/watch?v=HXtGiNG1ClY",
+      "thumbnail": "https://i.ytimg.com/vi/HXtGiNG1ClY/mqdefault.jpg",
+      "tiktok_id": null
+    },
+    {
       "youtube_id": "BlIBtUvYeSs",
       "title": "Tampa Bay Rays Beat Houston Astros 3-2! 🔥 MLB Final",
-      "published_at": "2026-09-13T02:17:57Z",
+      "published_at": "2026-09-13T02:18:19Z",
       "url": "https://www.youtube.com/watch?v=BlIBtUvYeSs",
       "thumbnail": "https://i.ytimg.com/vi/BlIBtUvYeSs/mqdefault.jpg",
       "tiktok_id": null
