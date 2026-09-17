@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-09-17T02:20:52+00:00",
+  "generated_at": "2026-09-17T03:18:42+00:00",
   "channel": {
     "title": "StatSlam",
     "url": "https://www.youtube.com/channel/UCykGZb7YAiOY0vbCv45OD5A",
-    "video_count": 112,
+    "video_count": 113,
     "view_count": 26915
   },
   "videos": [
+    {
+      "youtube_id": "R34nQwenJuE",
+      "title": "Texas Rangers Beat Boston Red Sox 7-3! 🔥 MLB Final",
+      "published_at": "2026-09-17T03:18:37Z",
+      "url": "https://www.youtube.com/watch?v=R34nQwenJuE",
+      "thumbnail": "https://i.ytimg.com/vi/R34nQwenJuE/mqdefault.jpg",
+      "tiktok_id": null
+    },
     {
       "youtube_id": "eank34iMpGw",
       "title": "Baltimore Orioles Beat New York Mets 7-1! 🔥 MLB Final",
