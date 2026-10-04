@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-10-04T01:16:32+00:00",
+  "generated_at": "2026-10-04T19:22:27+00:00",
   "channel": {
     "title": "StatSlam",
     "url": "https://www.youtube.com/channel/UCykGZb7YAiOY0vbCv45OD5A",
-    "video_count": 116,
+    "video_count": 117,
     "view_count": 28131
   },
   "videos": [
     {
+      "youtube_id": "mwleXMsAQMA",
+      "title": "Verstappen Wins the Bahrain Grand Prix in Malaysia! 🏁 F1 2026 Race Result",
+      "published_at": "2026-10-04T19:22:24Z",
+      "url": "https://www.youtube.com/watch?v=mwleXMsAQMA",
+      "thumbnail": "https://i.ytimg.com/vi/mwleXMsAQMA/mqdefault.jpg",
+      "tiktok_id": null
+    },
+    {
       "youtube_id": "fIss6EAIynA",
       "title": "Tampa Bay Rays Beat New York Yankees 1-0! 🔥 MLB Final",
-      "published_at": "2026-10-04T01:16:20Z",
+      "published_at": "2026-10-04T01:16:58Z",
       "url": "https://www.youtube.com/watch?v=fIss6EAIynA",
       "thumbnail": "https://i.ytimg.com/vi/fIss6EAIynA/mqdefault.jpg",
       "tiktok_id": null
