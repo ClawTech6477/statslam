@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-10-11T16:49:00+00:00",
+  "generated_at": "2026-10-11T23:08:42+00:00",
   "channel": {
     "title": "StatSlam",
     "url": "https://www.youtube.com/channel/UCykGZb7YAiOY0vbCv45OD5A",
-    "video_count": 120,
-    "view_count": 28778
+    "video_count": 121,
+    "view_count": 28786
   },
   "videos": [
     {
+      "youtube_id": "BpQc3umpEh0",
+      "title": "HAALAND Leads the Golden Boot Race ⚽🔥 Premier League 2026-27 Update",
+      "published_at": "2026-10-11T23:08:19Z",
+      "url": "https://www.youtube.com/watch?v=BpQc3umpEh0",
+      "thumbnail": "https://i.ytimg.com/vi/BpQc3umpEh0/mqdefault.jpg",
+      "tiktok_id": null
+    },
+    {
       "youtube_id": "F07qylaUTbM",
       "title": "PEDRO Leads the Golden Boot Race ⚽🔥 Premier League 2026-27 Update",
-      "published_at": "2026-10-11T16:48:48Z",
+      "published_at": "2026-10-11T16:49:18Z",
       "url": "https://www.youtube.com/watch?v=F07qylaUTbM",
       "thumbnail": "https://i.ytimg.com/vi/F07qylaUTbM/mqdefault.jpg",
       "tiktok_id": null
