@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-10-13T03:16:34+00:00",
+  "generated_at": "2026-10-15T19:46:37+00:00",
   "channel": {
     "title": "StatSlam",
     "url": "https://www.youtube.com/channel/UCykGZb7YAiOY0vbCv45OD5A",
-    "video_count": 122,
-    "view_count": 28792
+    "video_count": 123,
+    "view_count": 29472
   },
   "videos": [
     {
+      "youtube_id": "wVpTtW_5qzc",
+      "title": "Cleveland Guardians Beat Tampa Bay Rays 3-2! 🔥 MLB Final",
+      "published_at": "2026-10-15T19:46:24Z",
+      "url": "https://www.youtube.com/watch?v=wVpTtW_5qzc",
+      "thumbnail": "https://i.ytimg.com/vi/wVpTtW_5qzc/mqdefault.jpg",
+      "tiktok_id": null
+    },
+    {
       "youtube_id": "XSLmS_mc_H8",
       "title": "Cleveland Guardians Beat Tampa Bay Rays 7-3! 🔥 MLB Final",
-      "published_at": "2026-10-13T03:16:22Z",
+      "published_at": "2026-10-13T03:16:48Z",
       "url": "https://www.youtube.com/watch?v=XSLmS_mc_H8",
       "thumbnail": "https://i.ytimg.com/vi/XSLmS_mc_H8/mqdefault.jpg",
       "tiktok_id": null
