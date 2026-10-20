@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-10-19T00:46:30+00:00",
+  "generated_at": "2026-10-20T19:47:07+00:00",
   "channel": {
     "title": "StatSlam",
     "url": "https://www.youtube.com/channel/UCykGZb7YAiOY0vbCv45OD5A",
-    "video_count": 124,
-    "view_count": 30362
+    "video_count": 125,
+    "view_count": 30582
   },
   "videos": [
     {
+      "youtube_id": "eyf5ffC7xbw",
+      "title": "TRESOLDI Leads the Top Scorer Race ⚽🔥 Champions League 2026-27 Update",
+      "published_at": "2026-10-20T19:46:55Z",
+      "url": "https://www.youtube.com/watch?v=eyf5ffC7xbw",
+      "thumbnail": "https://i.ytimg.com/vi/eyf5ffC7xbw/mqdefault.jpg",
+      "tiktok_id": null
+    },
+    {
       "youtube_id": "tb9coRyYqTM",
       "title": "Tampa Bay Rays Beat Cleveland Guardians 3-1! 🔥 MLB Final",
-      "published_at": "2026-10-19T00:46:18Z",
+      "published_at": "2026-10-19T00:46:40Z",
       "url": "https://www.youtube.com/watch?v=tb9coRyYqTM",
       "thumbnail": "https://i.ytimg.com/vi/tb9coRyYqTM/mqdefault.jpg",
       "tiktok_id": null
